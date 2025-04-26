@@ -19,7 +19,7 @@ More projects coming soon as I continue learning and building!
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/miles-mcfadden-bb2912322/)
+- [LinkedIn](https://www.linkedin.com/in/miles-mcfadden/)
 - [Email](mailto:milesjmcfadden@gmail.com)
 
 Thanks for stopping by!
